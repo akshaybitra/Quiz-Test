@@ -1,0 +1,1 @@
+A personal quiz that will provide a grade depending on the responses given. The quiz contains at least three questions of the true/false or multiple-choice nature.  Text files are pre-populatesd with the questions or answers (depending on the text file). 
